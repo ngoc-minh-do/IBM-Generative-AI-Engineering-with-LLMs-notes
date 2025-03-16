@@ -12,3 +12,4 @@
 *.vsix
 
 .obsidian/workspace.json
+.trash
